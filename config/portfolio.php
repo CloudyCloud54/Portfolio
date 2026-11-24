@@ -47,7 +47,7 @@ return [
             'stack'   => ['Django', 'PostgreSQL', 'Campay', 'PDF'],
             'demo'    => null,
             'github'  => null,
-            'image'   => aircloudy.png,
+            'image'   => 'public/images/aircloudy.png',
         ],
         [
             'name'    => 'RentCloudy',
