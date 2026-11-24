@@ -85,6 +85,15 @@ return [
             'github'  => null,
             'image'   => null,
         ],
+        [
+            'name'    => 'Portfolio web',
+            'type'    => 'Conception et déploiement',
+            'summary' => "Mon portfolio : site responsive avec thème Auto, Clair ou Sombre (sombre automatique à partir de 18h), couleurs au choix et contenu géré depuis un seul fichier de configuration. Déployé sur Wasmer via GitHub.",
+            'stack'   => ['Laravel', 'Blade', 'CSS', 'JavaScript', 'Git/GitHub', 'Wasmer'],
+            'demo'    => 'https://portfolio-cloudycloud54.wasmer.app',
+            'github'  => 'https://github.com/CloudyCloud54/Portfolio',
+            'image'   => null,
+        ],
     ],
 
     // Ajoute 2 ou 3 réalisations par stage dans 'details' : c'est ce que lisent les recruteurs.
