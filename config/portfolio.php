@@ -65,7 +65,7 @@ return [
             'stack'   => ['Python', 'SQLite', 'Telegram'],
             'demo'    => null,
             'github'  => null,
-            'image'   => null,
+            'image'   => 'public/images/bot.png',
         ],
         [
             'name'    => 'SawaTrust',
@@ -74,7 +74,7 @@ return [
             'stack'   => ['Python', 'Playwright', 'Ollama'],
             'demo'    => null,
             'github'  => null,
-            'image'   => null,
+            'image'   => 'public/images/sawatrust.png',
         ],
         [
             'name'    => 'Todo list',
@@ -92,7 +92,7 @@ return [
             'stack'   => ['Laravel', 'Blade', 'CSS', 'JavaScript', 'Git/GitHub', 'Wasmer'],
             'demo'    => 'https://portfolio-cloudycloud54.wasmer.app',
             'github'  => 'https://github.com/CloudyCloud54/Portfolio',
-            'image'   => null,
+            'image'   => 'public/images/portfolio.png',
         ],
     ],
 
